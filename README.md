@@ -17,4 +17,6 @@ An individual participant data meta-analysis in 75,000 children from the EU Chil
   - **`04_sensitivity.R`**: Sensitivity analyses.
     a): Associations between prenatal depression and offspring outcomes when adjusting for minimal covariates
     b): Associations between prenatal depression and offspring outcomes when additionally adjusting for maternal country of birth
-    c): Associations between continuous depressive symptoms and offspring outcomes
+    c): Associations between continuous depressive symptoms and offspring outcomes.
+  - **`05_REV_analyses_GenR.R`**: Additional analyses for revision LRHE. 
+  - **`05_REV_tables.R`**: Tables for revision LRHE. 
